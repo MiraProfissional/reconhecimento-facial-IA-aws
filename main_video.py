@@ -13,11 +13,11 @@ from google.oauth2 import service_account
 from openpyxl import load_workbook
 
 SCOPES = ['https://www.googleapis.com/auth/drive']
-SERVICE_ACCOUNT_FILE = '/reconhecimento-facial-IA-aws/path/computacao-em-nuvem-424816-d2d9dda070b3.json'
+SERVICE_ACCOUNT_FILE = '[Escreva aqui o caminho correto de acordo com o seu diretório]/reconhecimento-facial-IA-aws/path/computacao-em-nuvem-424816-f24a44af87ff.json'
 PARENT_FOLDER_ID = "1MC3oiCzwLfwRApFIzV2AkN7jkQs0ludI"
-DOWNLOAD_PATH_IMAGES = '/reconhecimento-facial-IA-aws/downloaded_images'
-PATH_CSV = '/reconhecimento-facial-IA-aws/csv_files/chamada.csv'
-DOWNLOAD_PATH_CSV = '/reconhecimento-facial-IA-aws/csv_files'
+DOWNLOAD_PATH_IMAGES = '[Escreva aqui o caminho correto de acordo com o seu diretório]/reconhecimento-facial-IA-aws/downloaded_images'
+PATH_CSV = '[Escreva aqui o caminho correto de acordo com o seu diretório]/reconhecimento-facial-IA-aws/csv_files/chamada.csv'
+DOWNLOAD_PATH_CSV = '[Escreva aqui o caminho correto de acordo com o seu diretório]/reconhecimento-facial-IA-aws/csv_files'
 FALTAS_FOLDER_ID = "15BphelNVYDvmJH6gIVxdSwuc4SA3Q61l"
 
 
@@ -143,7 +143,7 @@ sfr.load_encoding_images(DOWNLOAD_PATH_IMAGES)
 
 recognized_faces = []  # Lista para armazenar os nomes das imagens reconhecidas
 start_time = time.time()
-run_time = 20  # Tempo de execução em segundos
+run_time = 40  # Tempo de execução em segundos
 
 while True:
     hora = datetime.now().strftime('%H:%M')

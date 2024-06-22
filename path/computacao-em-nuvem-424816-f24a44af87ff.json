@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "computacao-em-nuvem-424816",
+  "private_key_id": "f24a44af87ffa4a9ed8315f6909ff3dbfdf42285",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDF0Yv6k3/GizXc\nSH+8bjbQ75OQEBTzjgzjVBjUWd2vwG4eNljZPS7dLSo18ty8vrtkh3mWHjLz4ja1\nGcj+y4RXu6VhVV1/toA8UMTJqPHXEfuKR1kAG6Pm9EvK39ZyWugrB5z0wYeDHF3e\n/WT9Zlg9UQCqheOkm0EJSHeNPcBu+FjQi/ighoeGovTvFFClT1TxBCeTG1WlNCvJ\n4i2kFW43nkqTvS+wdPqsvLrOACmyFCEHQc5A+fBAkadzV/WFWDlk+3LJ8ILRdqYB\n/wE7BC5EyAcYK/bxbLTJFsGZP7Jd1cR8p/ZoNnGbWhlOIe264gSEjeMOIzbWCoMi\nSnmXy5X3AgMBAAECggEABj/b2qvhPzi8MaKbxr165ck7STwS9nCNcb9fB/lRoPdr\nTddgB+7IyxFEPibOuoAr75dXJZJzqqJw3WmcXIgPPQvHu3QqLpYUUE86preiFAN/\nQZEOu8c9XaPwvF/ezv7JXAlQ1euX8K28Tqim5vMrE3r2NJeWlniFkQi+r3qFcj4d\nzrb7x1eOXxH3PagomOxJLQPzqdBOm1y2FzaWhVyyOBBMzguhCAh0T0IgoMcH81Y3\nnaP6OlpJDgkCBtbGMKBkF5STYzwNsJlID4U6++0Q1P/CCjNLVW8hYVL5Z6tXDTXf\nnx96Rwig17zYJsZ6OrVqRgR03hcT+W2azXxGWRHZ4QKBgQD4Wu4JAZuGbg31iIW+\nhm/ocGKoRD378tLkmroPVUnvGFivmnmm4uwqMov6Pxo+H9xtqebTkNOvDOAQm0bP\nSZaAYVKELAT9FmD+cq48l0UGWP7t4GFEIf7XdhcSVbyFYiuPU3e7OT+3MwgiEzqX\ncot2nMyQoa/QY2hXpuLl97RlVwKBgQDL6GG85v2nCqrT9xlFDOnKI534zndqFWns\nL6287CTqUMTdhbqxzNoeUrGFxKoPVVz6OAT1cibhV0/3rW4EGEO5vCfOAIOZbvax\nz0+7qgrXKgi634zI72mXx3hnjEns2q1fhsSC1a221p4nRKKW6fIXIJZUACK+B4Jv\nOG/R16pQYQKBgQClgCrqE4kpr0NcIQtHaN1AX0xPZ5KKyEljj/x3ZVWsoGPRObbh\n0IyiniaLr+t0BNVmuvcYe4WlPIZAasloL1i82p4beB4m7ffa+F9F/2Q/E6VmrcUD\nm0fxGz/Ktxm3JTF0BKJgQIlGMxqzYm8EJ4/qjhkANM8tpmENMCg6KbSsZwKBgBNC\nWajr8F1MpqHqntpkw9gx0QPlDGZaq2yBfFlxvHLdOhrqPJ36iUd/7ACEeMOF/ogr\nrlw4ce+qvYTZPqDoYc0zNldAuS1Oy8IzoIZLI0b7U2PDJZr88e5CCt9M4taaOPHi\n2sC4yfWRA9MVqn2yjwkcLNa2RJHKR8mVfQpG4nFBAoGBAJhzBmsR3HlVXbBULS8h\nX+0geJL0Wfqp4OroH3RYgelB/zvPSuDvp6fPPxjKbz0IEgGqIxi3OS+9xKHWnC4E\ng3LsHX96IG5BiAEGdi77rcWPGJPB3Ta99T5Ijrq13S/A81qQ0fHhNInmr+ZmfxJ8\nLVpoZqzfbd43MRAwlJ7zU9ID\n-----END PRIVATE KEY-----\n",
+  "client_email": "reconhecimento-final@computacao-em-nuvem-424816.iam.gserviceaccount.com",
+  "client_id": "116586678405725379074",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reconhecimento-final%40computacao-em-nuvem-424816.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
