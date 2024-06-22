@@ -1,6 +1,6 @@
 opencv-python
 glob2
-numpy==1.24.6
+numpy==1.26.4
 requests
 pandas
 google-api-python-client
