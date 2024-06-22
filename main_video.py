@@ -13,11 +13,11 @@ from google.oauth2 import service_account
 from openpyxl import load_workbook
 
 SCOPES = ['https://www.googleapis.com/auth/drive']
-SERVICE_ACCOUNT_FILE = '/reconhecimento-facial-IA-aw/path/computacao-em-nuvem-424816-d2d9dda070b3.json'
+SERVICE_ACCOUNT_FILE = '/reconhecimento-facial-IA-aws/path/computacao-em-nuvem-424816-d2d9dda070b3.json'
 PARENT_FOLDER_ID = "1MC3oiCzwLfwRApFIzV2AkN7jkQs0ludI"
-DOWNLOAD_PATH_IMAGES = '/reconhecimento-facial-IA-aw/downloaded_images'
-PATH_CSV = '/reconhecimento-facial-IA-aw/csv_files/chamada.csv'
-DOWNLOAD_PATH_CSV = '/reconhecimento-facial-IA-aw/csv_files'
+DOWNLOAD_PATH_IMAGES = '/reconhecimento-facial-IA-aws/downloaded_images'
+PATH_CSV = '/reconhecimento-facial-IA-aws/csv_files/chamada.csv'
+DOWNLOAD_PATH_CSV = '/reconhecimento-facial-IA-aws/csv_files'
 FALTAS_FOLDER_ID = "15BphelNVYDvmJH6gIVxdSwuc4SA3Q61l"
 
 
